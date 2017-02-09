@@ -1,0 +1,5 @@
+ASP Assignment 6
+Step 1: Extract the files in a folder and make using makefile.
+Step 2: Select the input device in virtual box: Virtual Box-> Devices->USB->"Device Name"
+Step 3: Run script kbd_in.sh
+Step 4: Test the Two modes

@@ -1,0 +1,7 @@
+default:  wordstatistics.cpp
+	g++ wordstatistics.cpp -o wordcount -lpthread
+		
+clean: 
+	rm -f wordcount
+	rm -f Wordcount.txt
+

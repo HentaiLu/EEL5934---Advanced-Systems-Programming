@@ -1,0 +1,5 @@
+default:  Assignment3.cpp
+	g++ Assignment3.cpp -o assignment3 -lpthread
+		
+clean: 
+	rm -f assignment3
